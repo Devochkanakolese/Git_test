@@ -1,3 +1,5 @@
+Это ReadMe.md, на не main.py !!!
+
 import random
 
 q = random.randint(0,10)
